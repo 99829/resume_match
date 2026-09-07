@@ -1,0 +1,19 @@
+{
+  "candidate_name": "Rahul Mehta",
+  "skills": [
+    "Python",
+    "Django",
+    "Flask",
+    "REST API",
+    "PostgreSQL",
+    "Docker",
+    "Git"
+  ],
+  "experience_years": 2.5,
+  "projects": [
+    "E-commerce backend serving 10k users"
+  ],
+  "education": "",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Rahul Mehta. 2.5 years experience as backend developer. Skills: Python, Django, Flask, REST API design, PostgreSQL, Docker, Git. Built an e-commerce backend serving 10k users."
+}

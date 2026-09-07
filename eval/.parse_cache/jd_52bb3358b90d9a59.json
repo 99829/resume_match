@@ -1,0 +1,13 @@
+{
+  "role_title": "Site Reliability Engineer (SRE)",
+  "required_skills": [
+    "Kubernetes",
+    "Prometheus",
+    "Grafana",
+    "incident response",
+    "Terraform"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 3,
+  "responsibilities": []
+}

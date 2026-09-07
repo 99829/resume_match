@@ -1,0 +1,13 @@
+{
+  "role_title": "Full Stack Developer",
+  "required_skills": [
+    "Node",
+    "Express",
+    "MongoDB",
+    "React",
+    "REST API design"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 3,
+  "responsibilities": []
+}

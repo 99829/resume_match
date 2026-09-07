@@ -1,0 +1,16 @@
+{
+  "candidate_name": "Divya Patel",
+  "skills": [
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "AWS",
+    "Jenkins",
+    "DevOps"
+  ],
+  "experience_years": 3,
+  "projects": [],
+  "education": "",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Divya Patel. 3 years experience as a DevOps engineer. Skills: Kubernetes, Docker, Terraform, AWS, Jenkins. No monitoring or observability tooling experience mentioned."
+}

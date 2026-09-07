@@ -1,0 +1,16 @@
+{
+  "role_title": "Python Backend Developer",
+  "required_skills": [
+    "Python",
+    "Django",
+    "REST APIs",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "nice_to_have_skills": [
+    "AWS",
+    "Redis"
+  ],
+  "min_experience_years": 2,
+  "responsibilities": []
+}

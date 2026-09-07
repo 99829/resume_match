@@ -1,0 +1,13 @@
+{
+  "role_title": "NLP Engineer",
+  "required_skills": [
+    "Python",
+    "Transformers",
+    "fine-tuning LLMs",
+    "prompt engineering",
+    "vector databases"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 2,
+  "responsibilities": []
+}

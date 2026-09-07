@@ -1,0 +1,17 @@
+{
+  "candidate_name": "Priya Shah",
+  "skills": [
+    "Python",
+    "scikit-learn",
+    "pandas",
+    "SQL",
+    "Classification"
+  ],
+  "experience_years": 0,
+  "projects": [
+    "Titanic dataset classification"
+  ],
+  "education": "BSc IT",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Priya Shah. Fresher, BSc IT graduate. Skills: Python, scikit-learn, pandas, basic SQL. Completed a college project on Titanic dataset classification."
+}

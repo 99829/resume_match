@@ -1,0 +1,13 @@
+{
+  "role_title": "Mobile App Developer (Android)",
+  "required_skills": [
+    "Kotlin",
+    "Android SDK",
+    "MVVM",
+    "Jetpack Compose",
+    "REST API integration"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 2,
+  "responsibilities": []
+}

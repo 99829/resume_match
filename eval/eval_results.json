@@ -1,0 +1,315 @@
+{
+  "per_pair": [
+    {
+      "id": "pair_01",
+      "predicted_score": 85.0,
+      "expected_range": [
+        75,
+        95
+      ],
+      "score_in_range": true,
+      "predicted_tier": "strong_match",
+      "expected_tier": "strong_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_02",
+      "predicted_score": 13.4,
+      "expected_range": [
+        10,
+        35
+      ],
+      "score_in_range": true,
+      "predicted_tier": "weak_match",
+      "expected_tier": "weak_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "XGBoost",
+        "Random Forest",
+        "A/B testing",
+        "ML deployment"
+      ],
+      "expected_missing": [
+        "XGBoost",
+        "Random Forest",
+        "A/B testing",
+        "Machine Learning Deployment"
+      ]
+    },
+    {
+      "id": "pair_03",
+      "predicted_score": 80.8,
+      "expected_range": [
+        80,
+        100
+      ],
+      "score_in_range": true,
+      "predicted_tier": "moderate_match",
+      "expected_tier": "strong_match",
+      "tier_match": false,
+      "precision": 0.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "Machine Learning"
+      ],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_04",
+      "predicted_score": 27.7,
+      "expected_range": [
+        30,
+        55
+      ],
+      "score_in_range": false,
+      "predicted_tier": "weak_match",
+      "expected_tier": "moderate_match",
+      "tier_match": false,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "TypeScript",
+        "Redux",
+        "REST API"
+      ],
+      "expected_missing": [
+        "TypeScript",
+        "Redux",
+        "REST API"
+      ]
+    },
+    {
+      "id": "pair_05",
+      "predicted_score": 100.0,
+      "expected_range": [
+        80,
+        100
+      ],
+      "score_in_range": true,
+      "predicted_tier": "strong_match",
+      "expected_tier": "strong_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_06",
+      "predicted_score": 80.1,
+      "expected_range": [
+        45,
+        65
+      ],
+      "score_in_range": false,
+      "predicted_tier": "moderate_match",
+      "expected_tier": "moderate_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "Kafka"
+      ],
+      "expected_missing": [
+        "Kafka"
+      ]
+    },
+    {
+      "id": "pair_07",
+      "predicted_score": 100.0,
+      "expected_range": [
+        80,
+        100
+      ],
+      "score_in_range": true,
+      "predicted_tier": "strong_match",
+      "expected_tier": "strong_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_08",
+      "predicted_score": 22.5,
+      "expected_range": [
+        15,
+        35
+      ],
+      "score_in_range": true,
+      "predicted_tier": "weak_match",
+      "expected_tier": "weak_match",
+      "tier_match": true,
+      "precision": 0.8,
+      "recall": 1.0,
+      "predicted_missing": [
+        "Kotlin",
+        "Android SDK",
+        "MVVM",
+        "Jetpack Compose",
+        "REST API"
+      ],
+      "expected_missing": [
+        "Kotlin",
+        "MVVM",
+        "Jetpack Compose",
+        "REST API integration"
+      ]
+    },
+    {
+      "id": "pair_09",
+      "predicted_score": 80.1,
+      "expected_range": [
+        50,
+        70
+      ],
+      "score_in_range": false,
+      "predicted_tier": "moderate_match",
+      "expected_tier": "moderate_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "Penetration Testing"
+      ],
+      "expected_missing": [
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "pair_10",
+      "predicted_score": 100.0,
+      "expected_range": [
+        85,
+        100
+      ],
+      "score_in_range": true,
+      "predicted_tier": "strong_match",
+      "expected_tier": "strong_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_11",
+      "predicted_score": 32.7,
+      "expected_range": [
+        20,
+        40
+      ],
+      "score_in_range": true,
+      "predicted_tier": "weak_match",
+      "expected_tier": "weak_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "TestNG",
+        "CI/CD",
+        "API testing"
+      ],
+      "expected_missing": [
+        "TestNG",
+        "CI/CD",
+        "API testing"
+      ]
+    },
+    {
+      "id": "pair_12",
+      "predicted_score": 100.0,
+      "expected_range": [
+        85,
+        100
+      ],
+      "score_in_range": true,
+      "predicted_tier": "strong_match",
+      "expected_tier": "strong_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_13",
+      "predicted_score": 52.6,
+      "expected_range": [
+        40,
+        60
+      ],
+      "score_in_range": true,
+      "predicted_tier": "moderate_match",
+      "expected_tier": "moderate_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "ETL",
+        "Data Warehousing"
+      ],
+      "expected_missing": [
+        "ETL pipelines",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "id": "pair_14",
+      "predicted_score": 80.1,
+      "expected_range": [
+        80,
+        100
+      ],
+      "score_in_range": true,
+      "predicted_tier": "moderate_match",
+      "expected_tier": "strong_match",
+      "tier_match": false,
+      "precision": 0.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "Image preprocessing"
+      ],
+      "expected_missing": []
+    },
+    {
+      "id": "pair_15",
+      "predicted_score": 47.7,
+      "expected_range": [
+        25,
+        45
+      ],
+      "score_in_range": false,
+      "predicted_tier": "weak_match",
+      "expected_tier": "weak_match",
+      "tier_match": true,
+      "precision": 1.0,
+      "recall": 1.0,
+      "predicted_missing": [
+        "Prometheus",
+        "Grafana",
+        "incident response"
+      ],
+      "expected_missing": [
+        "Prometheus",
+        "Grafana",
+        "incident response"
+      ]
+    }
+  ],
+  "summary": {
+    "num_pairs": 15,
+    "score_band_accuracy": 0.733,
+    "tier_agreement": 0.8,
+    "missing_skills_precision": 0.853,
+    "missing_skills_recall": 1.0,
+    "missing_skills_f1": 0.921
+  }
+}

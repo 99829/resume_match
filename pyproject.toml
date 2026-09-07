@@ -1,0 +1,31 @@
+[project]
+name = "jd-resume-match"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "harsh28", email = "harshsarvaiya85@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.0",
+    "langchain-core>=0.3.0",
+    "langchain-groq>=0.2.0",
+    "langgraph>=0.2.0",
+    "numpy>=1.26.0",
+    "pdfplumber>=0.11.0",
+    "pydantic>=2.9.0",
+    "python-dotenv>=1.0.0",
+    "python-multipart>=0.0.9",
+    "scikit-learn>=1.5.0",
+    "sentence-transformers>=3.0.0",
+    "streamlit>=1.63.0",
+    "uvicorn>=0.30.0",
+]
+
+[project.scripts]
+jd-resume-match = "jd_resume_match:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"

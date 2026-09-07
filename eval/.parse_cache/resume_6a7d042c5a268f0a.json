@@ -1,0 +1,19 @@
+{
+  "candidate_name": "Farhan Ali",
+  "skills": [
+    "Python",
+    "OpenCV",
+    "PyTorch",
+    "CNN",
+    "ResNet",
+    "YOLO",
+    "Object Detection"
+  ],
+  "experience_years": 0,
+  "projects": [
+    "Real-time object detection project for a college hackathon"
+  ],
+  "education": "BTech Computer Science Engineering",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Farhan Ali. BTech CSE, fresher. Skills: Python, OpenCV, PyTorch, CNN architectures (ResNet, YOLO). Built a real-time object detection project for a college hackathon."
+}

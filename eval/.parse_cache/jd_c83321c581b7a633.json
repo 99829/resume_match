@@ -1,0 +1,15 @@
+{
+  "role_title": "AI/ML Engineer",
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "LangChain or LangGraph",
+    "RAG systems"
+  ],
+  "nice_to_have_skills": [
+    "FastAPI",
+    "Vector Databases"
+  ],
+  "min_experience_years": 0,
+  "responsibilities": []
+}

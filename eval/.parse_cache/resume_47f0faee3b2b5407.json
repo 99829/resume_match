@@ -1,0 +1,19 @@
+{
+  "candidate_name": "Karan Mehta",
+  "skills": [
+    "Python",
+    "Hugging Face Transformers",
+    "LoRA",
+    "Prompt Engineering",
+    "FAISS",
+    "LangChain",
+    "QLoRA"
+  ],
+  "experience_years": 2,
+  "projects": [
+    "Domain-specific chatbot using QLoRA"
+  ],
+  "education": "",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Karan Mehta. 2 years experience. Skills: Python, Hugging Face Transformers, LoRA fine-tuning, prompt engineering, FAISS, LangChain. Built a domain-specific chatbot using QLoRA."
+}

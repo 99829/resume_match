@@ -1,0 +1,14 @@
+{
+  "role_title": "Senior Data Scientist",
+  "required_skills": [
+    "Python",
+    "XGBoost",
+    "Random Forest",
+    "SQL",
+    "A/B testing",
+    "production ML deployment"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 5,
+  "responsibilities": []
+}

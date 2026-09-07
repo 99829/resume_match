@@ -1,0 +1,19 @@
+{
+  "candidate_name": "Vikram Rao",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Hibernate",
+    "MySQL",
+    "REST",
+    "Git",
+    "Microservices"
+  ],
+  "experience_years": 3,
+  "projects": [
+    "Microservices-based order management system"
+  ],
+  "education": "",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Vikram Rao. 3 years experience. Skills: Java, Spring Boot, Hibernate, MySQL, REST APIs, Git. Built a microservices-based order management system."
+}

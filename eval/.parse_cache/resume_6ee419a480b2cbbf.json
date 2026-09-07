@@ -1,0 +1,20 @@
+{
+  "candidate_name": "Sneha Iyer",
+  "skills": [
+    "Kubernetes",
+    "Terraform",
+    "AWS",
+    "AWS EC2",
+    "AWS S3",
+    "AWS EKS",
+    "Jenkins",
+    "CI/CD",
+    "Docker",
+    "Ansible"
+  ],
+  "experience_years": 4,
+  "projects": [],
+  "education": "",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Sneha Iyer. 4 years experience as DevOps engineer. Skills: Kubernetes, Terraform, AWS (EC2, S3, EKS), Jenkins CI/CD, Docker, Ansible."
+}

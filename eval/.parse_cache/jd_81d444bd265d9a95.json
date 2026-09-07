@@ -1,0 +1,13 @@
+{
+  "role_title": "DevOps Engineer",
+  "required_skills": [
+    "Kubernetes",
+    "Terraform",
+    "AWS",
+    "CI/CD pipelines",
+    "Docker"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 4,
+  "responsibilities": []
+}

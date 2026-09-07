@@ -1,0 +1,21 @@
+{
+  "candidate_name": "Harsh Sarvaiya",
+  "skills": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "FAISS",
+    "Groq API",
+    "Docker",
+    "RAG",
+    "BM25",
+    "FastAPI"
+  ],
+  "experience_years": 0,
+  "projects": [
+    "RAG pipeline with FAISS+BM25 hybrid retrieval, LangGraph agent orchestrator, FastAPI backend"
+  ],
+  "education": "BSc IT (2026)",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Harsh Sarvaiya. BSc IT 2026 graduate. Built a RAG pipeline with FAISS+BM25 hybrid retrieval, LangGraph agent orchestrator, FastAPI backend. Skills: Python, LangChain, LangGraph, FAISS, Groq API, Docker."
+}

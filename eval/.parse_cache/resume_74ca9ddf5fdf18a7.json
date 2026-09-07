@@ -1,0 +1,20 @@
+{
+  "candidate_name": "Aditya Singh",
+  "skills": [
+    "Node",
+    "Express",
+    "MongoDB",
+    "React",
+    "Redux",
+    "REST API",
+    "Docker",
+    "Full-Stack"
+  ],
+  "experience_years": 3,
+  "projects": [
+    "Full-stack inventory management system"
+  ],
+  "education": "",
+  "idate_name": "Unknown Candidate",
+  "raw_text": "Candidate: Aditya Singh. 3 years experience. Skills: Node.js, Express, MongoDB, React, Redux, REST API design, Docker. Built a full-stack inventory management system."
+}

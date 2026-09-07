@@ -1,0 +1,125 @@
+{
+  "description": "Golden eval set: resume-JD pairs with human-labeled expected match tier and expected missing skills.",
+  "pairs": [
+    {
+      "id": "pair_01",
+      "jd_text": "We are hiring a Python Backend Developer with 2+ years experience. Required: Python, Django, REST APIs, PostgreSQL, Docker. Nice to have: AWS, Redis.",
+      "resume_text": "Candidate: Rahul Mehta. 2.5 years experience as backend developer. Skills: Python, Django, Flask, REST API design, PostgreSQL, Docker, Git. Built an e-commerce backend serving 10k users.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [75, 95],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_02",
+      "jd_text": "Looking for a Senior Data Scientist, 5+ years, expert in Python, XGBoost, Random Forest, SQL, and A/B testing. Must have production ML deployment experience.",
+      "resume_text": "Candidate: Priya Shah. Fresher, BSc IT graduate. Skills: Python, scikit-learn, pandas, basic SQL. Completed a college project on Titanic dataset classification.",
+      "expected_tier": "weak_match",
+      "expected_score_range": [10, 35],
+      "expected_missing_skills": ["XGBoost", "Random Forest", "A/B testing", "Machine Learning Deployment"]
+    },
+    {
+      "id": "pair_03",
+      "jd_text": "AI/ML Engineer Fresher role. Required: Python, Machine Learning basics, LangChain or LangGraph, RAG systems. Nice to have: FastAPI, vector databases.",
+      "resume_text": "Candidate: Harsh Sarvaiya. BSc IT 2026 graduate. Built a RAG pipeline with FAISS+BM25 hybrid retrieval, LangGraph agent orchestrator, FastAPI backend. Skills: Python, LangChain, LangGraph, FAISS, Groq API, Docker.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [80, 100],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_04",
+      "jd_text": "Frontend React Developer, 3+ years. Required: React, TypeScript, Redux, CSS, REST API integration.",
+      "resume_text": "Candidate: Aman Verma. 1 year experience. Skills: HTML, CSS, JavaScript, basic React. Built a portfolio website and a to-do app.",
+      "expected_tier": "moderate_match",
+      "expected_score_range": [30, 55],
+      "expected_missing_skills": ["TypeScript", "Redux", "REST API"]
+    },
+    {
+      "id": "pair_05",
+      "jd_text": "DevOps Engineer, 4+ years. Required: Kubernetes, Terraform, AWS, CI/CD pipelines, Docker.",
+      "resume_text": "Candidate: Sneha Iyer. 4 years experience as DevOps engineer. Skills: Kubernetes, Terraform, AWS (EC2, S3, EKS), Jenkins CI/CD, Docker, Ansible.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [80, 100],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_06",
+      "jd_text": "Java Backend Engineer, 3+ years. Required: Java, Spring Boot, Microservices, SQL, Kafka.",
+      "resume_text": "Candidate: Vikram Rao. 3 years experience. Skills: Java, Spring Boot, Hibernate, MySQL, REST APIs, Git. Built a microservices-based order management system.",
+      "expected_tier": "moderate_match",
+      "expected_score_range": [45, 65],
+      "expected_missing_skills": ["Kafka"]
+    },
+    {
+      "id": "pair_07",
+      "jd_text": "Data Analyst, fresher role. Required: SQL, Excel, Power BI or Tableau, basic Python.",
+      "resume_text": "Candidate: Neha Joshi. BCom graduate, fresher. Skills: Excel, SQL, Power BI, basic Python for data cleaning. Completed a college project analyzing retail sales data.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [80, 100],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_08",
+      "jd_text": "Mobile App Developer (Android), 2+ years. Required: Kotlin, Android SDK, MVVM, Jetpack Compose, REST API integration.",
+      "resume_text": "Candidate: Rohit Desai. 1.5 years experience. Skills: Java, Android SDK, XML layouts, SQLite. Built two Play Store apps using traditional Android Views.",
+      "expected_tier": "weak_match",
+      "expected_score_range": [15, 35],
+      "expected_missing_skills": ["Kotlin", "MVVM", "Jetpack Compose", "REST API integration"]
+    },
+    {
+      "id": "pair_09",
+      "jd_text": "Cloud Security Engineer, 4+ years. Required: AWS IAM, SIEM tools, penetration testing, Terraform, Python scripting.",
+      "resume_text": "Candidate: Ayesha Khan. 4 years experience. Skills: AWS (IAM, GuardDuty, CloudTrail), Splunk, vulnerability scanning, Terraform, Python automation scripts.",
+      "expected_tier": "moderate_match",
+      "expected_score_range": [50, 70],
+      "expected_missing_skills": ["penetration testing"]
+    },
+    {
+      "id": "pair_10",
+      "jd_text": "NLP Engineer, 2+ years. Required: Python, Transformers, fine-tuning LLMs, prompt engineering, vector databases.",
+      "resume_text": "Candidate: Karan Mehta. 2 years experience. Skills: Python, Hugging Face Transformers, LoRA fine-tuning, prompt engineering, FAISS, LangChain. Built a domain-specific chatbot using QLoRA.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [85, 100],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_11",
+      "jd_text": "QA Automation Engineer, 2+ years. Required: Selenium, Java or Python, TestNG, CI/CD, API testing.",
+      "resume_text": "Candidate: Simran Kaur. 1 year experience. Skills: manual testing, basic Selenium with Python, bug tracking with Jira, test case writing.",
+      "expected_tier": "weak_match",
+      "expected_score_range": [20, 40],
+      "expected_missing_skills": ["TestNG", "CI/CD", "API testing"]
+    },
+    {
+      "id": "pair_12",
+      "jd_text": "Full Stack Developer, 3+ years. Required: Node.js, Express, MongoDB, React, REST API design.",
+      "resume_text": "Candidate: Aditya Singh. 3 years experience. Skills: Node.js, Express, MongoDB, React, Redux, REST API design, Docker. Built a full-stack inventory management system.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [85, 100],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_13",
+      "jd_text": "Business Intelligence Developer, 3+ years. Required: SQL, ETL pipelines, Power BI, Data Warehousing, Python for scripting.",
+      "resume_text": "Candidate: Meera Nair. 2 years experience. Skills: SQL, Power BI, Excel, basic Python. Built dashboards for sales reporting at a retail company.",
+      "expected_tier": "moderate_match",
+      "expected_score_range": [40, 60],
+      "expected_missing_skills": ["ETL pipelines", "Data Warehousing"]
+    },
+    {
+      "id": "pair_14",
+      "jd_text": "Computer Vision Engineer, fresher role. Required: Python, OpenCV, CNNs, PyTorch or TensorFlow, image preprocessing.",
+      "resume_text": "Candidate: Farhan Ali. BTech CSE, fresher. Skills: Python, OpenCV, PyTorch, CNN architectures (ResNet, YOLO). Built a real-time object detection project for a college hackathon.",
+      "expected_tier": "strong_match",
+      "expected_score_range": [80, 100],
+      "expected_missing_skills": []
+    },
+    {
+      "id": "pair_15",
+      "jd_text": "Site Reliability Engineer (SRE), 3+ years. Required: Kubernetes, Prometheus, Grafana, incident response, Terraform.",
+      "resume_text": "Candidate: Divya Patel. 3 years experience as a DevOps engineer. Skills: Kubernetes, Docker, Terraform, AWS, Jenkins. No monitoring or observability tooling experience mentioned.",
+      "expected_tier": "weak_match",
+      "expected_score_range": [25, 45],
+      "expected_missing_skills": ["Prometheus", "Grafana", "incident response"]
+    }
+  ]
+}

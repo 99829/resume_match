@@ -1,0 +1,13 @@
+{
+  "role_title": "Cloud Security Engineer",
+  "required_skills": [
+    "AWS IAM",
+    "SIEM",
+    "Penetration Testing",
+    "Terraform",
+    "Python"
+  ],
+  "nice_to_have_skills": [],
+  "min_experience_years": 4,
+  "responsibilities": []
+}
